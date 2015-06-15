@@ -1,0 +1,5 @@
+C:\Users\Reece's TFS test\Documents\GitHub\blank\gitrepo\bin\Debug\gitrepo.exe.config
+C:\Users\Reece's TFS test\Documents\GitHub\blank\gitrepo\bin\Debug\gitrepo.exe
+C:\Users\Reece's TFS test\Documents\GitHub\blank\gitrepo\bin\Debug\gitrepo.pdb
+C:\Users\Reece's TFS test\Documents\GitHub\blank\gitrepo\obj\Debug\gitrepo.exe
+C:\Users\Reece's TFS test\Documents\GitHub\blank\gitrepo\obj\Debug\gitrepo.pdb
